@@ -103,10 +103,10 @@
     "header": {
         "title": "G2N test",
         "icon": {
-            "src": "",
-            "favicon": "",
-            "alt": "",
-            "key": "",
+            "src": "https://minio.dev.maayanlab.cloud/enrichr-kg/enrichr-kg.png",
+            "favicon": "https://minio.dev.maayanlab.cloud/enrichr-kg/enrichr-kg.png",
+            "alt": "Enrichr logo",
+            "key": "enrichr_logo",
             "width": 100,
             "height": 60
         },
