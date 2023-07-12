@@ -128,9 +128,9 @@
                     "init_function": "initialize_kg"
             }
 
-            
+            }
         ]
-    },
+    
     "footer": [
         {
             "type": "github",
