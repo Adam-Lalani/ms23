@@ -119,6 +119,17 @@
                 "props": {
                     "init_function": "initialize_kg"
                 }
+            }, 
+
+            {
+                "endpoint": "/api/knowledge_graph/ppi_kg",
+                "label": "Protein KG",
+                "type": "page",
+                "component": "KnowledgeGraph",
+                "props": {
+                    "init_function": "interactive"
+                }
+
             }
         ]
     },
