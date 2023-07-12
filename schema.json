@@ -112,13 +112,20 @@
         },
         "tabs": [
             {
-                "endpoint": "/G2Ntest",
+                "endpoint": "/",
                 "label": "Term & Gene Search",
                 "type": "page",
                 "component": "KnowledgeGraph",
                 "props": {
                     "init_function": "initialize_kg"
                 }
+            },  {
+                "endpoint": "/api/knowledge_graph/ppi_kg",
+                "label": "Protein-Protein Interaction KG",
+                "type": "page",
+                "component": "KnowledgeGraph",
+                "props": {
+                    "init_function": "initialize_kg"
             }
 
             
