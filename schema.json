@@ -112,7 +112,7 @@
         },
         "tabs": [
             {
-                "endpoint": "/",
+                "endpoint": "/G2Ntest",
                 "label": "Term & Gene Search",
                 "type": "page",
                 "component": "KnowledgeGraph",
@@ -120,6 +120,8 @@
                     "init_function": "initialize_kg"
                 }
             }
+
+            
         ]
     },
     "footer": [
